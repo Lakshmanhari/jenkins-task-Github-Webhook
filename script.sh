@@ -3,4 +3,4 @@ echo "Build started..."
 date
 echo "Hello from Jenkins CI Pipeline"
 echo "checking Email notification 3rd time"
-echo "email notification"
+echo "email notification 1"
